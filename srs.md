@@ -1,9 +1,9 @@
 #**Software Requirement Specifications for a E-commerce WebApplication**
 
-##1)Users
+1)Users
 
 - Clean UI
--  Payment Gateway
+- Payment Gateway
 - order Tracking
 - Payment Gateway(Wallets,UPI,Cards)
 - Filters
@@ -11,7 +11,7 @@
 
 
 
-##2)CEO of that particular Company
+2)CEO of that particular Company
 
 
 
@@ -23,7 +23,7 @@
 
 
 
-##3)Sellers
+3)Sellers
 
 -categories
 -User Feedback
@@ -34,7 +34,7 @@
 
 
 
-##4)Sales and Marketing Manager
+4)Sales and Marketing Manager
 
 -Effective Animations And Popups
 -Web and mobile Application
@@ -44,7 +44,7 @@
 
 
 
-	##5)Delivery and Ecom-Managers
+##5)Delivery and Ecom-Managers
 Chatbot and Customer Support
 Tracking
 OTP verifier
