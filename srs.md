@@ -12,8 +12,6 @@
 
 
 2)CEO of that particular Company
-
-
 user side (software):- Google or Internet Explorer 
 System side (software) :- Web based application and Database informaion storage     
                           application.      
@@ -32,10 +30,6 @@ DataStructure :- #Unit attributes = 1) unique_id 2) stock 3) price 4) brand
                                             iv) exchange offers
                                           2) Listing sorted by ascending sorted order
                                           3) sorting according to price range
-
-
-
-
 
 
 
@@ -61,9 +55,9 @@ DataStructure :- #Unit attributes = 1) unique_id 2) stock 3) price 4) brand
 
 
 
-##5)Delivery and Ecom-Managers
-Chatbot and Customer Support
-Tracking
-OTP verifier
-Product Verifications
-return and Replacement Section 
+5)Delivery and Ecom-Managers
+-Chatbot and Customer Support
+-Tracking
+-OTP verifier
+-Product Verifications
+-return and Replacement Section 
