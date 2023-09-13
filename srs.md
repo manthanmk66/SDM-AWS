@@ -1,6 +1,6 @@
-	#**Software Requirement Specifications for a E-commerce WebApplication**
+#**Software Requirement Specifications for a E-commerce WebApplication**
 
-	##1)Users
+##1)Users
 
 - Clean UI
 -  Payment Gateway
@@ -11,7 +11,7 @@
 
 
 
-	##2)CEO of that particular Company
+##2)CEO of that particular Company
 
 
 
@@ -23,7 +23,7 @@
 
 
 
-#3)Sellers
+##3)Sellers
 
 -categories
 -User Feedback
@@ -34,7 +34,7 @@
 
 
 
-	##4)Sales and Marketing Manager
+##4)Sales and Marketing Manager
 
 -Effective Animations And Popups
 -Web and mobile Application
