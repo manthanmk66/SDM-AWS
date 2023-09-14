@@ -46,6 +46,8 @@ Online proctoring must be there throughout the exam.
 Government document verification system must be there to verify the identity of 
 students.
 
+At the end of exam, each and every answer must be saved in the database.
+
 ## NonFunctional Requirement:
 
 #### Performance and scalability: How fast does the system return results? How much will this performance change with higher workloads?
