@@ -1,10 +1,10 @@
-#CDAC Assesment Portal
-##Document
+# CDAC Assesment Portal
+## Document
 System Requirement Specification Document
-###Title
+### Title
 System Reqruiement Spefication for CDAC Assesment Portal
-##Team:
+## Team:
 Student,Exam Cell, Architect,Exam Coordinator, invigilator , System Analyst
-##Objective (Purpose):
+## Objective (Purpose):
 
 
