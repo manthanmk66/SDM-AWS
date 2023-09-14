@@ -59,7 +59,7 @@ Implement a government document verification system to confirm the identity of s
 ### Answer Database:
 At the conclusion of the exam, store each student's answers in a secure database for record-keeping and analysis.
 
-##Non-Functional Requirements:
+## Non-Functional Requirements:
 
 ### Performance and Scalability:
 The system should return results quickly, and its performance should not degrade significantly under higher workloads, ensuring a smooth experience for all users, even during peak usage times.
