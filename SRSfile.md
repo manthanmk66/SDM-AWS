@@ -1,4 +1,4 @@
-'#ffffff'# CDAC Assesment Portal
+# CDAC Assesment Portal
 ## Document
 System Requirement Specification Document
 ### Title
