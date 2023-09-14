@@ -1,14 +1,45 @@
 # CDAC Assesment Portal
+
 ## Document
 System Requirement Specification Document
+
 ### Title
 System Reqruiement Spefication for CDAC Assesment Portal
+
 ## Team:
 Student,Exam Cell, Architect,Exam Coordinator, invigilator , System Analyst
+
 ## Objective (Purpose):
 Cdac online assesment is used for giving students an opportunity to make their career brighter.It will help students to take admission according to their preparation and knowledge.
+
 ## Scope : 
 This system allows filtering knowlegable students from other students.
+
+## Functional Requirement:
+It must be an easy to handle interface
+
+student must not panic beacuse of UI interface
+
+student should be able to mark their questions if they want to solve later on 
+
+all solved questions must be set to green 
+
+All questions with only numbers should be visible to student such that they can easily switch to 
+another quetion with it.And also they can move to previous and next question without any difficulty.
+
+Size of font should be proper such that it can increase readability of questions and options.
+
+After selecting options delay must not be there for selected options.
+
+There should be an option unmarking the answers.
+
+All the unanswered questions should be in red colour.
+
+Solved and unsolved question number count should be display on top left side of 
+screen.
+
+Timer for exam must be shown on Top right corner.It will start when student begin 
+their exam.
 
 ## NonFunctional Requirement:
 
