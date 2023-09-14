@@ -16,6 +16,7 @@ Cdac online assesment is used for giving students an opportunity to make their c
 This system allows filtering knowlegable students from other students.
 
 ## Functional Requirements:
+---------------------------------
 
 ### Easy-to-Use Interface: 
 The interface of the CDAC Assessment Portal should be intuitive and user-friendly. It should not be overly complex, ensuring that students can easily navigate and interact with the system.
