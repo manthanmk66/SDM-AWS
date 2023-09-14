@@ -1,5 +1,4 @@
-
-<span style="color: #ffffff;"># CDAC Assesment Portal</span>
+# CDAC Assesment Portal
 ## Document
 System Requirement Specification Document
 ### Title
