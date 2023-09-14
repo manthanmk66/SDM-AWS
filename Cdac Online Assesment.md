@@ -41,6 +41,11 @@ screen.
 Timer for exam must be shown on Top right corner.It will start when student begin 
 their exam.
 
+Online proctoring must be there throughout the exam.
+
+Government document verification system must be there to verify the identity of 
+students.
+
 ## NonFunctional Requirement:
 
 #### Performance and scalability: How fast does the system return results? How much will this performance change with higher workloads?
