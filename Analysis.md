@@ -1,4 +1,4 @@
-# sections
+# Sections
 # Sign up Sign in
 # Support
 # Menu
