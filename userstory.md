@@ -10,4 +10,4 @@
 * As examiner I want Live exam counter, so that I can show student the specific time which is assigned to that particular exam
 * As a exam coordinator I want userverification window , so that i can verify the candidate who is giving exam
 * As a student I want , so that I get the idea abt my solved unsloved and bookmarked questions
-
+* As a student I dont want poor connectivity, so that there can be no interruption during the exam.
