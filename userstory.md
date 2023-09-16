@@ -1,4 +1,4 @@
-*As a user, I need sections, so that I browse various sections and features
+* As a user, I need sections, so that I browse various sections and features
 As a user, I need the signin signup window, so that I can acces my personal profile.
 As a user, I need chatsupport, so that I can solve my queries instantly.
 As a user I want profile tag, so that I can save my personal details on that profile
