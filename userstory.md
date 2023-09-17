@@ -11,6 +11,7 @@
 * As a center I want userverification window , so that i can verify the candidate who is giving exam
 * As a student I want , so that I get the idea abt my solved unsloved and bookmarked questions
 * As a examiner I want institute login window ,so that i can login with admin login;
-* As a examiner I want feedback tab, so that i can take feedback from the student who are giving the exams
+* As a examiner I want feedback tab, so that i can take feedback from the student who are giving the exams.
 * As a student I want language change tab, so that I can change the language of questions according to me
-* As a examiner i want time remaining notifications ,so that the student get idea about the remaining time for the exam
+* As a examiner i want time remaining notifications ,so that the student get idea about the remaining time for the exam.
+
