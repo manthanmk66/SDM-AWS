@@ -25,4 +25,6 @@ sudo docker run -d -p 8000:8000 img
 
 
 
+https://drive.google.com/drive/folders/1rAr2lSuATp-_dIByITDmkTnIcnDl56Jk?usp=sharing
+
 
